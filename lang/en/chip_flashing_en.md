@@ -142,4 +142,4 @@ And the laptop turned on
 
 Since I successfully erased my serial numbers, I needed to restore them.
 
-[Continuation](sn_restore_ru.md).
+[Continuation](sn_restore_en.md).

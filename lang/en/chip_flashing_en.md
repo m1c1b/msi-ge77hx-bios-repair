@@ -115,7 +115,7 @@ Then the chip was successfully flashed.
 ## You will need:
 - NeoProgrammer
 - Choose the MX25L25673G chip (I had the MX25L25673GZ4I-08G in my laptop)
-- Firmware from the MSI website. An archive of versions is located [here](https://ipfs.io/ipfs/QmNmSNZ19KJ6Kiw6LngjdevPmpX29YsSUTEkHjY4AXzqv1?filename=msi-flash-all-needed.zip)
+- Firmware from the MSI website. An archive of versions is located [here](https://github.com/m1c1b/msi-ge77hx-bios-repair/releases/download/initial/msi-flash-all-needed.zip)
 
 ### Steps:
 1. Dump the chip

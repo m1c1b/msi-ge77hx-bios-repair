@@ -7,7 +7,7 @@ The guide includes a direct firmware update to the chip 🎛️ and a recovery p
 
 🔍 Follow the instructions carefully. 🔍
 
-All the software used in the guide is provided in the attached [archive](https://ipfs.io/ipfs/QmNmSNZ19KJ6Kiw6LngjdevPmpX29YsSUTEkHjY4AXzqv1?filename=msi-flash-all-needed.zip). 
+All the software used in the guide is provided in the attached [archive](https://github.com/m1c1b/msi-ge77hx-bios-repair/releases/download/initial/msi-flash-all-needed.zip) at releases page. 
 
 **🚨 Attention: 🚨** The author is not responsible for damages or malfunctions caused by applying information from the guide.
 

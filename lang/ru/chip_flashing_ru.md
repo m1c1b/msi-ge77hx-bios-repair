@@ -115,7 +115,7 @@ CRC32 = 0xFE5CF682
 ## Итого необходимо:
 - NeoProgrammer
 - Выбор чипа MX25L25673G (у меня в ноутбуке оказался MX25L25673GZ4I-08G)
-- Прошивка с сайта MSI. Архив версий лежит [здесь](https://ipfs.io/ipfs/QmNmSNZ19KJ6Kiw6LngjdevPmpX29YsSUTEkHjY4AXzqv1?filename=msi-flash-all-needed.zip)
+- Прошивка с сайта MSI. Архив версий лежит [здесь](https://github.com/m1c1b/msi-ge77hx-bios-repair/releases/download/initial/msi-flash-all-needed.zip)
 
 ### Шаги:
 1. Дампим чип
